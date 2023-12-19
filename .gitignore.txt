@@ -1,0 +1,8 @@
+Abstract.docx
+AI Legal Advisor Project Phase 1_ first_review.pptx
+caselawBERT.pdf
+chatlaw.pdf
+LawLLama.pdf
+Rag.pdf
+Legal Summarisation through LLMs.pdf
+SSRN-id4404017.pdf
