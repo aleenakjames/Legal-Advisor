@@ -1,0 +1,11 @@
+streamlit
+langchain
+ipykernel
+python-box
+pypdf
+transformers 
+bitsandbytes 
+accelerate 
+einops
+sentence_transformers
+llama_index
