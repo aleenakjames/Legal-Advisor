@@ -4,7 +4,7 @@ from langchain.llms import CTransformers
 
 #Function to get response from llama model
 def getllama(input_text,law,crime_type):
-    
+    return 0
 
 
 
